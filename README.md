@@ -138,5 +138,5 @@ JWT_SECRET=your_jwt_secret_key
 ## 👨‍💻 Author
 
 Made with ❤️ by **Owais Zakir**
-GitHub: [@your-github-username](https://github.com/owaisZakir)
+GitHub: [@yOwaisZakir](https://github.com/owaisZakir)
 
