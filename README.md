@@ -2,7 +2,7 @@
 
 A production-ready boilerplate for building secure REST APIs using **JWT authentication**, **bcrypt password hashing**, and **MongoDB** with **Mongoose**. Built using **Node.js** and **Express.js** — ideal for login systems, user dashboards, and backend auth management.
 
-> 💡 Built by [Owais Zakir](https://github.com/your-github-username)
+> 💡 Built by [Owais Zakir](https://github.com/owaisZakir)
 
 ---
 
