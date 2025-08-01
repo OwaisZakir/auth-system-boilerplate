@@ -33,8 +33,10 @@ A production-ready boilerplate for building secure REST APIs using **JWT authent
 ### 📥 Clone the repository
 
 ```bash
-git clone https://github.com/your-github-username/jwt-auth-nodejs.git
-cd jwt-auth-nodejs
+git clone https://github.com/OwaisZakir/auth-system-boilerplate.git
+````
+```bash
+cd auth-system-boilerplate
 ````
 
 ### 📦 Install dependencies
